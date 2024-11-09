@@ -1,4 +1,4 @@
-### <h1>We Care - </h1>
+### <h1>We Care </h1>
 
 <p>Projeto desenvolvido ao longo das aulas no curso de formação DevClub</p>
 <br>
